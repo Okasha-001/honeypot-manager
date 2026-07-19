@@ -130,4 +130,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 <p align="center">
   Developed with ❤️ for the ONIX Community
-</p>
+</p>  
